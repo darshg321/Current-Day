@@ -1,0 +1,23 @@
+* {
+    color: aliceblue;
+}
+
+body {
+    padding-left: 35px;
+    background: rgb(52,52,163);
+    background: linear-gradient(90deg, rgba(52,52,163,1) 0%, rgba(0,212,255,1) 100%);
+}
+h1 {
+    font-family: "Cascadia Mono", serif;
+    font-size: 80px;
+}
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 40px;
+}
+p {
+    font-family: Calibri, serif;
+    font-size: 30px;
+}
